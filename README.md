@@ -21,6 +21,32 @@ Usando a plataforma aXeleRate podemos não só treinar o modelo, como podemos ta
 
 O processo de treinamento pode levar algum tempo, então no [Colab](https://colab.research.google.com/drive/1HcuwZeGmcBSnQXtGyYeoRJ-W6fZodWKa?usp=sharing) coloquei dois arquivos "config", um para o treinamento do "zero" e outro com um modelo que já estava sendo treinado, já que quando começamos treinar o treinamento vai sendo salvo cada vez que um modelo consegue uma performance melhor.
 
+Após de treinar, vamos ter o modelo no formato usado pela placa(kmodel) e poderemos usar a plataforma maixpy para fazer a inferência, o arquivo está disponível, com o nome inference.py, após testar se está tudo certo podemos salvar o arquivo dentro da memória da nossa placa e rodar ela usando um powerbank.
+
+![image](https://user-images.githubusercontent.com/74123993/125292136-8836ed80-e2f8-11eb-8ee5-65a8fde37305.png)
+
+# Testes
+
+## Fotos de gatos da internet
+
+![image](https://user-images.githubusercontent.com/74123993/125292203-9b49bd80-e2f8-11eb-98ff-3912dadc2ec7.png)
+![image](https://user-images.githubusercontent.com/74123993/125292237-a6045280-e2f8-11eb-9cd3-4beb30ab9fd9.png)
+![image](https://user-images.githubusercontent.com/74123993/125292274-aef52400-e2f8-11eb-83bc-1b452013d727.png)
+
+## Fotos de cachorros da internet
+
+![image](https://user-images.githubusercontent.com/74123993/125292461-dea42c00-e2f8-11eb-985a-a1f2ea4c4425.png)
+![image](https://user-images.githubusercontent.com/74123993/125292667-0dba9d80-e2f9-11eb-8671-3ffd3eadd930.png)
+![image](https://user-images.githubusercontent.com/74123993/125292648-098e8000-e2f9-11eb-9089-2d9f93f04ab9.png)
+![image](https://user-images.githubusercontent.com/74123993/125292695-14491500-e2f9-11eb-91d8-08edc3f1006d.png)
+![image](https://user-images.githubusercontent.com/74123993/125292682-101cf780-e2f9-11eb-97bf-5e946c29ddc2.png)
+
+## Usando um gato na "vida real"
+
+![image](https://user-images.githubusercontent.com/74123993/125292763-24f98b00-e2f9-11eb-8f7b-4784facd1925.png)
+![image](https://user-images.githubusercontent.com/74123993/125292778-2925a880-e2f9-11eb-846e-cca6da5623d4.png)
+![image](https://user-images.githubusercontent.com/74123993/125292748-21fe9a80-e2f9-11eb-9eb3-994aee8ae44f.png)
+
 
 
 
