@@ -1,5 +1,5 @@
 # cat_dog_detection_k210
-Um detector de gatos e cachorros usando a placa MaixBit, usando o google colab e um dataset do kaggle para gerar uma "caixa" no rosto de gatos e cachorros.
+Um detector de gatos e cachorros usando a placa MaixBit, usando o google colab e um dataset do kaggle para gerar uma "caixa" no rosto de gatos e cachorros. Esse projeto foi baseado nesse [exemplo](https://www.hackster.io/dmitrywat/object-detection-with-sipeed-maix-boards-kendryte-k210-421d55) da biblioteca aXelerate.
 
 # Descrição
 Esse projeto consiste em usar um [dataset](https://www.kaggle.com/andrewmvd/dog-and-cat-detection) que contêm fotos de gatos e cachorros e suas respectivas "caixas" no rosto dos animais( nesse caso são dois arquivos, um xml e uma imagem). 
